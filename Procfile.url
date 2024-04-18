@@ -1,2 +1,1 @@
-[InternetShortcut]
-URL=https://github.com/sammyzayn123/flask-based-wordcloud-generator/blob/master/Procfile
+web: gunicorn app:app
